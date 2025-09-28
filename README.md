@@ -11,8 +11,6 @@ The system demonstrates:
 - **Search API for integration with UI**  
 - **Optional personalization & recommendation layer**  
 
-> Designed to showcase **system design, scalable search architecture, and ML integration**, making it suitable for **Google L5 / senior engineering roles**.
-
 ---
 
 ## 🏗️ Architecture (High-Level Design)
