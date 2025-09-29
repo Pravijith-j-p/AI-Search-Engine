@@ -45,14 +45,23 @@ The system demonstrates:
 
 AI-Search-Engine/
 │── data/ # Local Wikipedia dataset (not in repo)
+
 │── src/
+
 │ ├── loader.py # Document loading & preprocessing
+
 │ ├── indexer.py # BM25 & embedding indexing
+
 │ ├── api.py # REST API endpoints
+
 │ └── recommender.py # Personalization & ranking
+
 │── notebooks/ # Experiments & prototyping
+
 │── requirements.txt
+
 │── README.md
+
 │── .gitignore
 
 
